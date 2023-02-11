@@ -1,0 +1,11 @@
+Etudiants:
+
+Abdallah Bacha (201001,Spe-GIC)
+Rami Moubadder (201778,Spe-GIC)
+Ahmad Fahmi(201023,Spe-GIC)
+
+
+Librairies à installer :
+
+pip install requests
+pip install pillow
